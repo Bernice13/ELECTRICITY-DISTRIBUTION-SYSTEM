@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sU22EqlGgIdCKBopPHc+u0yg2qYgwzqAGlBVTd2WlhhwWmRaWsXmysoVIzO9mm6+KqnUKywFj76qfhGLxArl+g==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Bernice\\source\\repos\\ElectricityBillTopUp\\AgentPortal\\AgentPortal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bernice\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\Bernice\source\repos\ElectricityBillTopUp\PortalLibrary\bin\Debug\net5.0\PortalLibrary.deps.json
+C:\Users\Bernice\source\repos\ElectricityBillTopUp\PortalLibrary\bin\Debug\net5.0\PortalLibrary.dll
+C:\Users\Bernice\source\repos\ElectricityBillTopUp\PortalLibrary\bin\Debug\net5.0\ref\PortalLibrary.dll
+C:\Users\Bernice\source\repos\ElectricityBillTopUp\PortalLibrary\bin\Debug\net5.0\PortalLibrary.pdb
+C:\Users\Bernice\source\repos\ElectricityBillTopUp\PortalLibrary\obj\Debug\net5.0\PortalLibrary.csprojAssemblyReference.cache
+C:\Users\Bernice\source\repos\ElectricityBillTopUp\PortalLibrary\obj\Debug\net5.0\PortalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bernice\source\repos\ElectricityBillTopUp\PortalLibrary\obj\Debug\net5.0\PortalLibrary.AssemblyInfoInputs.cache
+C:\Users\Bernice\source\repos\ElectricityBillTopUp\PortalLibrary\obj\Debug\net5.0\PortalLibrary.AssemblyInfo.cs
+C:\Users\Bernice\source\repos\ElectricityBillTopUp\PortalLibrary\obj\Debug\net5.0\PortalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bernice\source\repos\ElectricityBillTopUp\PortalLibrary\obj\Debug\net5.0\PortalLibrary.dll
+C:\Users\Bernice\source\repos\ElectricityBillTopUp\PortalLibrary\obj\Debug\net5.0\ref\PortalLibrary.dll
+C:\Users\Bernice\source\repos\ElectricityBillTopUp\PortalLibrary\obj\Debug\net5.0\PortalLibrary.pdb

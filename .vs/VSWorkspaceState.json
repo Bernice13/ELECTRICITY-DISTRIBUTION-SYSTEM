@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CustomerPortal",
+    "\\CustomerPortal\\AppData",
+    "\\CustomerPortal\\Menu",
+    "\\PortalLibrary",
+    "\\PortalLibrary\\Constant",
+    "\\PortalLibrary\\CustomerServices"
+  ],
+  "SelectedNode": "\\CustomerPortal\\Menu\\Forms.cs",
+  "PreviewInSolutionExplorer": false
+}
